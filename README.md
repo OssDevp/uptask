@@ -86,3 +86,15 @@ VITE_API_URL=http://localhost:3000/api
 4. ```bash
    npm run dev:api  # o pnpm run dev:api
    ```
+
+## Screenshot
+
+### Gestión de Proyectos
+![Inicio](/image/inicio.png)
+
+### Gestión de Tareas
+![Proyectos](/image/uptask.png)
+
+
+### Gestión de Colaboradores.
+![Colaboradores](/image/colaboradores.png)
